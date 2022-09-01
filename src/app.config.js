@@ -4,7 +4,7 @@
  * DO NOT store state here - must be part of a stateless service
  */
 class AppConfig {
-    team = 'Group->2';
+    team = 'Group No. Two';
     version = '1.0.1';
 }
 module.exports = AppConfig;
